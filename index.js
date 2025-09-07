@@ -4,3 +4,4 @@ console.log("HELLO WORLD!!");
 console.log("Hi po");
 console.log("sumimasen");
 console.log("Arigato"); 
+console.log("Arigathanks");
